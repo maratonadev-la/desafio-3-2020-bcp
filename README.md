@@ -89,6 +89,12 @@ Para poder realizar este desafío, se deben cumplir con los siguientes requisito
 
 ### 4.3. Desarrollo
 
+<div align="center">
+    <a href="https://youtu.be/8uc_EYhLXfA">
+       <img width="50%" src="./doc/source/images/TUTORIAL-DESAFIO-3-ES.png" alt='video'>
+    </a>
+</div>
+
 Para **Desafío 3**, se solicita al desarrollador que cree un modelo de lenguaje natural en Watson Knowledge Studio (WKS), capaz de extraer entidades y relaciones con los siguientes nombres:
 
 Entidades
@@ -164,14 +170,6 @@ La siguiente tabla detalla lo que representa cada entidad y un marcado sugerido.
 Con todos los documentos marcados, debe enviar las notas de la tarea y aceptarlas. Una vez realizado este procedimiento, en el lado izquierdo, en la pestaña 'Performance', estará disponible el entrenamiento del modelo de lenguaje natural. Simplemente haga clic en 'Train and evaluate' y configure las proporciones de entrenamiento, prueba y validación. Después de unos minutos, el modelo estará disponible para su uso.
 
 El despliegue del modelo creado debe realizarse en una instancia de *Natural Language Understanding*, para eso, en el lado izquierdo, en la pestaña 'Versions' simplemente haga clic en 'Create version'. Una vez que se haya creado la versión, haga clic en 'deploy', seleccione 'Natural Language Understanding' y luego elija su instancia de servicio. Al final, se generará un ID para su modelo, guárdelo ya que será necesario para el envío.
-
-<div align="center">
-    <a href="https://youtu.be/8uc_EYhLXfA">
-       <img width="50%" src="./doc/source/images/TUTORIAL-DESAFIO-3-ES.png" alt='video'>
-    </a>
-</div>
-
-
 
 ## 5. Envío
 
