@@ -49,13 +49,13 @@ La idea esencial del desafío es crear un modelo de lenguaje natural capaz de ex
 
 ### 3.1. Tecnología
 
-*[Watson Knowledge Studio](https://cloud.ibm.com/catalog/services/knowledge-studio)* permite entrenar el idioma de un dominio con modelos personalizados de Machine Learning que identifican entidades y relaciones exclusivas de una industria en texto no estructurado. Cree modelos en un entorno grafico diseñado tanto para desarrolladores como para expertos en dominios, sin necesidad de escribir código. Utilice los modelos en Watson Discovery, Watson Natural Language Understanding y Watson Explorer.
-
 <div align="center">
-    <a href="https://www.youtube.com/watch?v=bdZMKNjp9bQ">
-       <img width="30%" src="./doc/source/images/wks.jpg" alt='video'>
+    <a href="https://youtu.be/8uc_EYhLXfA">
+       <img width="50%" src="./doc/source/images/TUTORIAL-DESAFIO-3-ES.png" alt='video'>
     </a>
 </div>
+
+*[Watson Knowledge Studio](https://cloud.ibm.com/catalog/services/knowledge-studio)* permite entrenar el idioma de un dominio con modelos personalizados de Machine Learning que identifican entidades y relaciones exclusivas de una industria en texto no estructurado. Cree modelos en un entorno grafico diseñado tanto para desarrolladores como para expertos en dominios, sin necesidad de escribir código. Utilice los modelos en Watson Discovery, Watson Natural Language Understanding y Watson Explorer.
 
 *[Natual Language Understanding](https://cloud.ibm.com/catalog/services/natural-language-understanding)* utiliza procesamiento de lenguange natural (NLP) avanzado para analizar texto y extraer metadatos de contenido como conceptos, entidades, palabras clave, categorías, sentimiento, emoción, relaciones y roles semánticos. Aplique modelos de anotación personalizados desarrollados con Watson Knowledge Studio para identificar entidades y relaciones específicas de una industria / dominio en texto no estructurado con Watson NLU.
 
@@ -88,12 +88,6 @@ Para poder realizar este desafío, se deben cumplir con los siguientes requisito
 16. Envíe su solicitud a [https://bcp.maratona.dev](https://bcp.maratona.dev)
 
 ### 4.3. Desarrollo
-
-<div align="center">
-    <a href="https://youtu.be/8uc_EYhLXfA">
-       <img width="50%" src="./doc/source/images/TUTORIAL-DESAFIO-3-ES.png" alt='video'>
-    </a>
-</div>
 
 Para **Desafío 3**, se solicita al desarrollador que cree un modelo de lenguaje natural en Watson Knowledge Studio (WKS), capaz de extraer entidades y relaciones con los siguientes nombres:
 
