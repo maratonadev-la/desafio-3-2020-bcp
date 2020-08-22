@@ -7,7 +7,6 @@
 - [1. Acerca de BCP](#1-acerca-de-bcp)
 - [2. Reto de negocio](#2-reto-de-negocio)
 - [3. Objetivo](#3-objetivo)
-  - [3.1. Tecnología](#31-tecnología)
 - [4. Desarrollando la solución](#4-desarrollando-la-solución)
   - [4.1. Pre-requisitos](#41-pre-requisitos)
   - [4.2. Resumen de las tareas](#42-resumen-de-las-tareas)
@@ -47,19 +46,21 @@ En este desafío, BCP usará herramientas de IBM como *[Watson Knowledge Studio]
 
 La idea esencial del desafío es crear un modelo de lenguaje natural capaz de extraer entidades y relaciones que ayuden en la clasificación de oraciones para que en el futuro el banco pueda implementar eficientemente su sistema de respuesta automática.
 
-### 3.1. Tecnología
+## 4. Desarrollando la solución
+
+En este desafío vamos a usar las siguientes herramientas
+
+*[Watson Knowledge Studio](https://cloud.ibm.com/catalog/services/knowledge-studio)* permite entrenar el idioma de un dominio con modelos personalizados de Machine Learning que identifican entidades y relaciones exclusivas de una industria en texto no estructurado. Cree modelos en un entorno grafico diseñado tanto para desarrolladores como para expertos en dominios, sin necesidad de escribir código. Utilice los modelos en Watson Discovery, Watson Natural Language Understanding y Watson Explorer.
+
+*[Natual Language Understanding](https://cloud.ibm.com/catalog/services/natural-language-understanding)* utiliza procesamiento de lenguange natural (NLP) avanzado para analizar texto y extraer metadatos de contenido como conceptos, entidades, palabras clave, categorías, sentimiento, emoción, relaciones y roles semánticos. Aplique modelos de anotación personalizados desarrollados con Watson Knowledge Studio para identificar entidades y relaciones específicas de una industria / dominio en texto no estructurado con Watson NLU.
+
+Mira el tutorial a continuación para aprender como aplicar la tecnología de IBM para resolver el desafío
 
 <div align="center">
     <a href="https://youtu.be/8uc_EYhLXfA">
        <img width="50%" src="./doc/source/images/TUTORIAL-DESAFIO-3-ES.png" alt='video'>
     </a>
 </div>
-
-*[Watson Knowledge Studio](https://cloud.ibm.com/catalog/services/knowledge-studio)* permite entrenar el idioma de un dominio con modelos personalizados de Machine Learning que identifican entidades y relaciones exclusivas de una industria en texto no estructurado. Cree modelos en un entorno grafico diseñado tanto para desarrolladores como para expertos en dominios, sin necesidad de escribir código. Utilice los modelos en Watson Discovery, Watson Natural Language Understanding y Watson Explorer.
-
-*[Natual Language Understanding](https://cloud.ibm.com/catalog/services/natural-language-understanding)* utiliza procesamiento de lenguange natural (NLP) avanzado para analizar texto y extraer metadatos de contenido como conceptos, entidades, palabras clave, categorías, sentimiento, emoción, relaciones y roles semánticos. Aplique modelos de anotación personalizados desarrollados con Watson Knowledge Studio para identificar entidades y relaciones específicas de una industria / dominio en texto no estructurado con Watson NLU.
-
-## 4. Desarrollando la solución
 
 ### 4.1. Pre-requisitos
 
