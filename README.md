@@ -202,7 +202,7 @@ Recuerde que tiene 3 oportunidades de envío de la solución del reto donde se l
 
 ## Solución de problemas
 
-Mira el [video explicativo](#4-desarrollando-la-solucion) provisto en la Sección 4, o si lo deseas, revisa la documentación de los servicios involucrados en este desafío:
+Mira el [video explicativo](#4-desarrollando-la-solución) provisto en la Sección 4, o si lo deseas, revisa la documentación de los servicios involucrados en este desafío:
 
 Accede al discord oficial de la Maratón 2020 para hacer preguntas y/o interactuar con otros participantes: [Discord](https://discord.gg/Q9At74C).
 
